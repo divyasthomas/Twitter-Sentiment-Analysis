@@ -11,8 +11,8 @@
 * The distributions of sentiment scores for each of the three movies was plotted. A vertical line is added to indicate the mean sentiment score.
 The score distributions are compared by placing them all in the same figure.
 
-![Snapshot of distribution Plot](sentscore_dist.png)
+![Snapshot of distribution Plot](sentscore_dist.PNG)
 
 * For the movie with the most positive sentiment, a word cloud was made
 
-![WordCloud](sentscore_dist.png)
+![WordCloud](wordcloud.PNG)
