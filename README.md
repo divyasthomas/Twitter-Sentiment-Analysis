@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Twitter-Sentiment-Analysis (R Project)
 
 ### Methodology:
 * Scrapped tweets about 3 oscar nominated best picture movies from twitter using the twitter API and saved it as a Rdata file
